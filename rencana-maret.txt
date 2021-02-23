@@ -5,3 +5,6 @@ Rencana Maret
   * Dart
   * Flutter
   * Struktur data
+  * UI&UX
+  * AI
+  
