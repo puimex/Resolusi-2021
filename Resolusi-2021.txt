@@ -1,5 +1,6 @@
 Resolusi
-- Konsistem belajar Bahasa Pemrograman Dart
+- Konsisten belajar Bahasa Pemrograman Dart
 - Konsisten belajar Flutter
 - Membuat 10 App
-- Mendapatkan Sertifikat 
+- Mendapatkan Sertifikat
+- Mendapatkan Project
