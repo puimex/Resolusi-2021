@@ -1,0 +1,6 @@
+Rencana Maret
+- Setiap hari belajar pemrogrman 1jam/hari
+- belajar teknologi baru
+  * S.O.L.I.D
+  * Dart
+  * Flutter
