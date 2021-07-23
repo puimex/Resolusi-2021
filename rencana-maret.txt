@@ -7,5 +7,6 @@ Rencana Maret
   * Struktur data
   * UI&UX
   * AI
+  * JSON
   
 
