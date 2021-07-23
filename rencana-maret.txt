@@ -8,5 +8,7 @@ Rencana Maret
   * UI&UX
   * AI
   * JSON
-  
+  * Python
+  * GitHub
+
 
