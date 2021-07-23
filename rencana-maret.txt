@@ -7,5 +7,5 @@ Rencana Maret
   * Struktur data
   * UI&UX
   * AI
-  
+  * Python
 
