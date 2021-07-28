@@ -3,3 +3,4 @@ Resolusi
 - Konsisten belajar Flutter
 - Membuat 10 App
 - Mendapatkan Project
+menambah
