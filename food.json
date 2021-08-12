@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "foto": "https://makananoleholeh.com/wp-content/uploads/2017/07/Sate-Khas-Indonesia.jpg",
+        "food": "Sate Ayam",
+        "date": "12-28 October 2021",
+        "alarm": "10 am - 17 pm",
+        "city": "Madura",
+        "descripsi": "Sate adalah makanan enak khas Indonesia yang mendunia yang secara umum dibuat dari bahan dasar daging ayam atau sapi yang dipotong-potong untuk kemudian ditusuk dengan lidi."
+    },
+    {
+        "id": 2,
+        "foto": "https://makananoleholeh.com/wp-content/uploads/2017/07/Opor-Ayam-Khas-Indonesia.jpg",
+        "food": "Opor Ayam",
+        "date": "11-26 Desember 2021",
+        "alarm": "8 am - 12 am",
+        "city": "Semarang",
+        "descripsi": "Pada menjelang hari raya lebaran atau Idul Fitri, masyarakat Indonesia, terutama yang beragama Islam, berbondong-bondong menyiapkan sajian untuk tamu yang hendak berkunjung ke rumah untuk bersilaturahim dan bermaaf-maafan."
+    },
+    {
+        "id": 3,
+        "foto": "https://makananoleholeh.com/wp-content/uploads/2017/07/Rendang-Khas-Indonesia.jpg",
+        "food": "Rendang",
+        "date": "5-22 November 2021",
+        "alarm": "11 am - 19 pm",
+        "city": "Bandung",
+        "descripsi": "Makanan tradisional indonesia yang mendunia ini dimasukkan ke dalam daftar 50 Hidangan Terlezat Dunia atau 50 Most Delicious Foods ini. Secara normal, rendang akan dibuat dari daging sapi dengan rasa yang pedas, karena salah satu rempahnya adalah cabai."
+    },
+    {
+        "id": 4,
+        "foto": "https://makananoleholeh.com/wp-content/uploads/2017/07/Serabi-Khas-Indonesia.jpg",
+        "food": "Serabi",
+        "date": "1-21 Desember 2021",
+        "alarm": "7 am - 10 am",
+        "city": "Jakarta",
+        "descripsi": "Serabi atau surabi adalah kuliner tradisional dengan bahan dasar tepung beras berbentuk bulat, cara memasaknya adalah dengan menggunakan tungku."
+    },
+    {
+        "id": 5,
+        "foto": "https://makananoleholeh.com/wp-content/uploads/2017/07/Kolak-Khas-Indonesia.jpg",
+        "food": "Kolak",
+        "date": "12-20 Desember 2021",
+        "alarm": "9 am - 18 pm",
+        "city": "Surabaya",
+        "descripsi": "Makanan dengan nama kolak merupakan olahan dengan bahan dasar potongan pisang atau ubi yang dimasak dengan cara direbus bersama santan dan gula jawa."
+    }
+]
