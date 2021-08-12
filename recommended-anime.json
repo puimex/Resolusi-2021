@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Police University",
+        "name": "Dragon Ball",
         "city": "Jakarta",
         "country": "Indonesia",
         "price": 48,
@@ -45,7 +45,7 @@
     },
     {
         "id": 3,
-        "name": "Police University",
+        "name": "Boruto",
         "city": "Seattle",
         "country": "Bogor",
         "price": 22,
@@ -67,7 +67,7 @@
     },
     {
         "id": 4,
-        "name": "Police University",
+        "name": "Saint Saiya",
         "city": "Halla",
         "country": "Sumatra",
         "price": 552,
