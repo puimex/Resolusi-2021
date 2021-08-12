@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "foto": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+        "foto": "https://images.unsplash.com/photo-1529563021893-cc83c992d75d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
         "food": "Sate Ayam",
         "date": "12-28 October 2021",
         "alarm": "10 am - 17 pm",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "foto": "https://makananoleholeh.com/wp-content/uploads/2017/07/Opor-Ayam-Khas-Indonesia.jpg",
+        "foto": "https://images.unsplash.com/photo-1569924220711-b1648079a75b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
         "food": "Opor Ayam",
         "date": "11-26 Desember 2021",
         "alarm": "8 am - 12 am",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "foto": "https://makananoleholeh.com/wp-content/uploads/2017/07/Rendang-Khas-Indonesia.jpg",
+        "foto": "https://images.unsplash.com/photo-1622198678447-47d574f474e6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
         "food": "Rendang",
         "date": "5-22 November 2021",
         "alarm": "11 am - 19 pm",
@@ -28,8 +28,8 @@
     },
     {
         "id": 4,
-        "foto": "https://makananoleholeh.com/wp-content/uploads/2017/07/Serabi-Khas-Indonesia.jpg",
-        "food": "Serabi",
+        "foto": "https://images.unsplash.com/photo-1528034731963-671a69eb642f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+        "food": "Kue Serabi",
         "date": "1-21 Desember 2021",
         "alarm": "7 am - 10 am",
         "city": "Jakarta",
@@ -37,8 +37,8 @@
     },
     {
         "id": 5,
-        "foto": "https://makananoleholeh.com/wp-content/uploads/2017/07/Kolak-Khas-Indonesia.jpg",
-        "food": "Kolak",
+        "foto": "https://images.unsplash.com/photo-1560144913-efb47e72ca43?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "food": "Kolak Cincau",
         "date": "12-20 Desember 2021",
         "alarm": "9 am - 18 pm",
         "city": "Surabaya",
